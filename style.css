@@ -3,23 +3,17 @@ body{
     font-family:"Poppins";
     font-style: normal;
 }
-header{
-    margin-bottom: 100px;
-}
 .photo1{
-    filter: brightness(50%);
+    filter: brightness(70%);
 }
 .text1{
-    font-size: 70px ;
+    font-size: 65px ;
 }
+
 .text2{
      background-color: #F4FAFD;
      width:80%;
      
 }
-.explore{
-    margin-bottom:100px;
-}
-.student{
-    margin-bottom:100px;
-}
+
+
